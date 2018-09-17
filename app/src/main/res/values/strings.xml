@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FastCar</string>
+    <string name="hint_userName">Usuario</string>
+</resources>
